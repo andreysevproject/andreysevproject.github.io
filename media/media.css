@@ -466,34 +466,35 @@
 @media screen and (max-width: 376px) {
 	.wrapper-img-burger {
 		width: 30%;
-    	margin-right: 0% !important;
+    		margin-right: 0% !important;
 	}
 
 	#logo-header {
-	    width: 35% !important;
+		width: 35% !important;
 	}
 
 	.logo-text-header {
-    	margin-left: 5% !important;
+    		margin-left: 5% !important;
 	}
 
 	#img-burger {
 		float: right;
+		width: 60%;
 	}
 
 	.block-1 {
-    	width: 60%;
+    		width: 60%;
 	}
 
 	.info-block-3 {
-    	margin-left: 5%;
+    		margin-left: 5%;
 	}
 
 	.info-text-block-3 {
-    	margin-left: 5%;
+    		margin-left: 5%;
 	}
 
 	.contact-info-block-3 {
-    	margin-left: 5%;
+    		margin-left: 5%;
 	}
 }
